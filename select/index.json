@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "Spicy",
+  "base_artist": "aespa",
+  "createdAt": "2025-12-03T07:26:10.624935Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Spicy (feat. Post Malone)",
+      "artist": "Ty Dolla $ign feat. Post Malone",
+      "has_synced": true,
+      "path": "select/01_Spicy_(feat._Post_Malone)_Ty_Dolla_$ign_feat._Post_Malone.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Spicy (feat. Post Malone)",
+      "artist": "Ty Dolla $ign, Post Malone",
+      "has_synced": true,
+      "path": "select/02_Spicy_(feat._Post_Malone)_Ty_Dolla_$ign,_Post_Malone.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Spicy (feat. Fivio Foreign & A$AP Ferg)",
+      "artist": "Nas feat. Fivio Foreign & A$AP Ferg",
+      "has_synced": true,
+      "path": "select/03_Spicy_(feat._Fivio_Foreign_&_A$AP_Ferg)_Nas_feat._Fivio_Foreign_&_A$AP_Ferg.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Spicy",
+      "artist": "Nas",
+      "has_synced": true,
+      "path": "select/04_Spicy_Nas.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Spicy - Herve Pagez VIP",
+      "artist": "Herve Pagez feat. Diplo & Charli XCX",
+      "has_synced": false,
+      "path": "select/05_Spicy_-_Herve_Pagez_VIP_Herve_Pagez_feat._Diplo_&_Charli_XCX.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Spicy Madonna",
+      "artist": "BRADIO",
+      "has_synced": true,
+      "path": "select/06_Spicy_Madonna_BRADIO.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "The Spicy McHaggis Jig",
+      "artist": "Dropkick Murphys",
+      "has_synced": false,
+      "path": "select/07_The_Spicy_McHaggis_Jig_Dropkick_Murphys.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Spicy (feat. Charli XCX)",
+      "artist": "Herve Pagez feat. Diplo & Charli XCX",
+      "has_synced": true,
+      "path": "select/08_Spicy_(feat._Charli_XCX)_Herve_Pagez_feat._Diplo_&_Charli_XCX.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Spicy",
+      "artist": "Herve Pagez Feat. Diplo & Charli XCX",
+      "has_synced": true,
+      "path": "select/09_Spicy_Herve_Pagez_Feat._Diplo_&_Charli_XCX.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Spicy",
+      "artist": "aespa",
+      "has_synced": true,
+      "path": "select/10_Spicy_aespa.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Spicy",
+      "artist": "aespa",
+      "has_synced": true,
+      "path": "select/11_Spicy_aespa.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Spicy",
+      "artist": "Nas; Fivio Foreign; A$AP Ferg",
+      "has_synced": true,
+      "path": "select/12_Spicy_Nas;_Fivio_Foreign;_A$AP_Ferg.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Spicy Girls",
+      "artist": "globe",
+      "has_synced": false,
+      "path": "select/13_Spicy_Girls_globe.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Spicy (feat. Fivio Foreign & A$AP Ferg)",
+      "artist": "Nas",
+      "has_synced": true,
+      "path": "select/14_Spicy_(feat._Fivio_Foreign_&_A$AP_Ferg)_Nas.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Spicy",
+      "artist": "aespa",
+      "has_synced": true,
+      "path": "select/15_Spicy_aespa.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Spicy McHaggis Jig",
+      "artist": "Dropkick Murphys",
+      "has_synced": true,
+      "path": "select/16_Spicy_McHaggis_Jig_Dropkick_Murphys.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Spicy (feat. Post Malone)",
+      "artist": "Ty Dolla $ign",
+      "has_synced": true,
+      "path": "select/17_Spicy_(feat._Post_Malone)_Ty_Dolla_$ign.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Spicy",
+      "artist": "aespa",
+      "has_synced": false,
+      "path": "select/pl_01_Spicy_aespa.txt"
+    }
+  ]
+}
